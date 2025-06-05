@@ -1,1 +1,1 @@
-# Power-BI-Project
+Power-BI-Project, My project analyzes Air Quality Index (AQI) data to monitor pollution levels, identify hazardous zones, and visualize trends, helping raise awareness and support environmental decisions. 
